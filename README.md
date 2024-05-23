@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=neon&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=neon)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=neon)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eagleoffire&theme=monokai)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eagleoffire&theme=neon)
