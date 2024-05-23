@@ -17,7 +17,7 @@
 <a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr" alt="README stat"></a>
 </div>
 
-## Languages:
+### Languages
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-## IDE
+### IDE
 
 <div align="center">
  
