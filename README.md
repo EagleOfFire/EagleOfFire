@@ -17,8 +17,17 @@
 <a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr" alt="README stat"></a>
 </div>
 
-| player_id | first_login |
-|-----------|-------------|
+## Languages:
+
+| python3 | java | lua | html | CSS | javascript | VBA |
+|---------|------|-----|------|-----|------------|-----|
+|         |      |     |      |     |            |     |
+
+## IDE
+
+| IntelliJ | Pycharm | Visual studio code | NodeRed |
+|----------|---------|--------------------|---------|
+|          |         |                    |         |
 
  # :floppy_disk: git commit
 
