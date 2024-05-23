@@ -23,7 +23,7 @@
 
 | python3 | java | lua | html | CSS | javascript | VBA |
 |---------|------|-----|------|-----|------------|-----|
-|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|
+|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|
 
 </div>
 
