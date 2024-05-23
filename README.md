@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="some trophy"></a>
+<a><img align="center" src="https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="some trophy"></a>
 </div>
 
 
@@ -7,7 +7,7 @@
 
 <div align="center">
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<a"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>
 
 # :keyboard: return this.class
