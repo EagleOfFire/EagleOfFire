@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eagleoffire&theme=codeSTACKr)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eagleoffire&repo=LeetCode&theme=codeSTACKr)](https://github.com/EagleOfFire/LeetCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EagleOfFire&repo=ROS-voies-ninja-1.20.1&theme=codeSTACKr)](https://github.com/EagleOfFire/ROS-voies-ninja-1.20.1)
