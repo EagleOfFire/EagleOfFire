@@ -9,7 +9,10 @@
 
 # :keyboard: return this.class
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr)
+<div align="center">
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr" alt="README stat"></a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr)
 
