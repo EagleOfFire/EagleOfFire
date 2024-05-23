@@ -5,6 +5,9 @@
 
 # :computer: print("Hello world!")
 
+I started using Git for my Minecraft mod creation and realized it would be beneficial to apply it to all my projects.\
+Now, I’m incorporating everything I do in my free time, building it up brick by brick.
+
 <div align="center">
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
