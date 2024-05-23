@@ -23,7 +23,8 @@
 
 | python3 | java | lua | html | CSS | javascript | VBA |
 |---------|------|-----|------|-----|------------|-----|
-|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" src="https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/303205/html-5-logo"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/452185/css-3"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/303206/javascript-logo"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/103162/vb-open-file-symbol"></a>|
+|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>|<a><img align="center" src="![image](https://github.com/EagleOfFire/EagleOfFire/assets/85110288/1c84b3a3-d28a-4ad3-a97c-10ef10fe4ad1)
+"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"></a>|
 
 </div>
 
