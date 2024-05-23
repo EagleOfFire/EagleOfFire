@@ -33,7 +33,7 @@
  
 | IntelliJ | Pycharm | Visual studio code | NodeRed |
 |----------|---------|--------------------|---------|
-|          |         |                    |         |
+||         |<a><img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a>|         |
 
 </div>
 
