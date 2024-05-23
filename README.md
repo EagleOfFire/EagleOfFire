@@ -2,7 +2,9 @@
 
 # :computer: print("Hello world!")
 
-<p style="text-align: center;" href="https://readme-jokes.vercel.app/api"></p>
+<p align="center"> 
+ <href="https://readme-jokes.vercel.app/api"/>
+</p>
 
 # :keyboard: return this.class
 
