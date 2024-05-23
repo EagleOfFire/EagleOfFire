@@ -12,3 +12,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eagleoffire&repo=LeetCode&theme=codeSTACKr)](https://github.com/EagleOfFire/LeetCode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EagleOfFire&repo=ROS-voies-ninja-1.20.1&theme=codeSTACKr)](https://github.com/EagleOfFire/ROS-voies-ninja-1.20.1)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
