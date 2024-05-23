@@ -1,4 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="some trophy"></a>
+</div>
+
 
 # :computer: print("Hello world!")
 
