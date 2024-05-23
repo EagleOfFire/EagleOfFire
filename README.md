@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Introduction section
+# print("Hello world!") :computer:
 
 # Technology used
 
