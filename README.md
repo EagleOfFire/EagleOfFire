@@ -23,7 +23,7 @@
 
 | python3 | java | lua | html | CSS | javascript | VBA |
 |---------|------|-----|------|-----|------------|-----|
-|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|<a><img align="center" src=""></a>|
+|<a><img align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" src="https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/303205/html-5-logo"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/452185/css-3"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/303206/javascript-logo"></a>|<a><img align="center" src="https://www.svgrepo.com/svg/103162/vb-open-file-symbol"></a>|
 
 </div>
 
