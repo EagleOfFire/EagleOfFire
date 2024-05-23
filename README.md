@@ -12,12 +12,16 @@
 
 # :keyboard: return this.class
 
+Some insight of my working stack
+
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr" alt="README stat"></a>
 <a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr" alt="README stat"></a>
 </div>
 
 ### Languages
+
+Here's a non-exhaustive list of the programming languages I use the most:
 
 <div align="center">
 
@@ -28,6 +32,8 @@
 </div>
 
 ### IDE
+
+The IDE I find most enjoyable and efficient for development.
 
 <div align="center">
  
