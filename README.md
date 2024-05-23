@@ -7,14 +7,14 @@
 
 <div align="center">
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>
 
 # :keyboard: return this.class
 
 <div align="center">
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr" alt="README stat"></a>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr" alt="README stat"></a>
+<a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr" alt="README stat"></a>
+<a href="https://github-readme-stats.vercel.app/api"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr" alt="README stat"></a>
 </div>
 
  # :floppy_disk: git commit
