@@ -48,5 +48,8 @@ The IDE I find most enjoyable and efficient for development.
 
  # :floppy_disk: git commit
 
+Kicking off a new section: my main contribution. \
+Whether it's boosting my main project or chipping in on other exciting ones, each step forward adds to the journey.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eagleoffire&repo=LeetCode&theme=codeSTACKr)](https://github.com/EagleOfFire/LeetCode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EagleOfFire&repo=ROS-voies-ninja-1.20.1&theme=codeSTACKr)](https://github.com/EagleOfFire/ROS-voies-ninja-1.20.1)
