@@ -33,7 +33,7 @@
  
 | IntelliJ | Pycharm | Visual studio code | NodeRed |
 |----------|---------|--------------------|---------|
-|<a><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></a>|<a><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a>|<a><img align="center" style='height: 100px;' src="https://nodered.org/about/resources/media/node-red-hexagon.svg"></a>|
+|<a><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></a>|<a><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></a>|<a><img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a>|<a><img align="center" style='height: 90px;' src="https://nodered.org/about/resources/media/node-red-hexagon.svg"></a>|
 
 </div>
 
