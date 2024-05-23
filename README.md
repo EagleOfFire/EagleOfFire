@@ -19,15 +19,19 @@
 
 ## Languages:
 
+<div align="center">
 | python3 | java | lua | html | CSS | javascript | VBA |
 |---------|------|-----|------|-----|------------|-----|
 |         |      |     |      |     |            |     |
+</div>
 
 ## IDE
 
+<div align="center">
 | IntelliJ | Pycharm | Visual studio code | NodeRed |
 |----------|---------|--------------------|---------|
 |          |         |                    |         |
+</div>
 
  # :floppy_disk: git commit
 
