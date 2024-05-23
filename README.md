@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EagleOfFire&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EagleOfFire&show_icons=true&theme=codeSTACKr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EagleOfFire&hide=Cmake,MakeFile&theme=codeSTACKr)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eagleoffire&theme=shadow_red)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eagleoffire&theme=codeSTACKr)
