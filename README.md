@@ -28,9 +28,9 @@ Here's a non-exhaustive list of the programming languages I use the most:
 
 <div align="center">
 
-| python3 | java | lua | html | CSS | javascript | VBA |
-|---------|------|-----|------|-----|------------|-----|
-|<a><img align="center" style='height: 90px;' src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/lua/lua-official.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>|<a><img align="center" style='height: 90px;' src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"></a>|
+| python3 | java | html | CSS | javascript | VBA |
+|---------|------|------|-----|------------|-----|
+|<a><img align="center" style='height: 90px;' src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>|<a><img align="center" style='height: 90px;' src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>|<a><img align="center" style='height: 90px;' src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"></a>|
 
 </div>
 
